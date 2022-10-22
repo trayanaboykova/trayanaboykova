@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @trayanaboykova
+👋 Hi, I’m Trayana Boykova
+
 - 👀 I’m interested in computer science and technology
 - 🌱 I’m currently learning Java at SoftUni
 - 📫 How to reach me trayana.boykova@gmail.com
