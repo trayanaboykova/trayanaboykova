@@ -12,6 +12,11 @@
 <a href="https://linkedin.com/in/trayana-boykova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trayana-boykova" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18431327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18431327" height="30" width="40" /></a>
 
+<h3 align="left">💻Tech Stack:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,idea,vscode&theme=light)](https://skillicons.dev)
+
+
 
 
 
