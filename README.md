@@ -9,8 +9,8 @@
 
 <h3 align="left">🕸<ins>Connect with me</ins>:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/trayana-boykova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trayana-boykova" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18431327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18431327" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/trayana-boykova" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trayana-boykova" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18431327" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18431327" height="30" width="40" /></a>
 
 <h3 align="left">💻<ins>My Tech Stack</ins>:</h3>
 
