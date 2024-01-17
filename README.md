@@ -4,7 +4,6 @@
 
 - 🧩 **I’m interested in:** computer science and technology
 - 📚 **I’m currently learning:** Java
-- 📧 **How to reach me:** trayana.boykova@gmail.com
 - ⚡ **Fun fact about me:** I have a masters degree in law ⚖, but I am currently pursuing a career change in the field of software development.
 
 <h3 align="left">🕸<ins>Connect with me</ins>:</h3>
