@@ -13,7 +13,7 @@
 
 <h3 align="left">💻<ins>My Tech Stack</ins>:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,idea,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,idea&theme=light)](https://skillicons.dev)
 
 <!---
 trayanaboykova/trayanaboykova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
