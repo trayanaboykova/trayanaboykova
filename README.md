@@ -2,7 +2,7 @@
 
 <h3 align="left">✨<ins>About me</ins>:</h3>
 
-- 🧩 **I’m interested in:** computer science and technology
+- 🧩 **I’m interested in:** technology and software development 
 - 📚 **I’m currently learning:** Java
 - ⚡ **Fun fact about me:** I have a masters degree in law ⚖, but I am currently pursuing a career change in the field of software development.
 
