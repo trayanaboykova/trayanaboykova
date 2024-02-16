@@ -15,7 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,idea&theme=light)](https://skillicons.dev)
 
-***
+<h1 align="center"></h1>
 
 ### 📚[Java Learning Path](https://softuni.bg/curriculum)
 #### ✔[Programming Basics](https://softuni.bg/trainings/3741/programming-basics-with-java-april-2022):
