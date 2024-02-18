@@ -18,40 +18,31 @@
 <h1 align="center"></h1>
 
 ### 📚[Java Learning Path](https://softuni.bg/curriculum)
-#### ✔[Programming Basics](https://softuni.bg/trainings/3741/programming-basics-with-java-april-2022):
-<p>
-  📅 April-June 2022 <br>
-  📁 <a href="https://github.com/trayanaboykova/Programming-Basics-Java">Programming Basics with Java</a> <br>
-  📄 <a href="https://softuni.bg/certificates/details/134595/710e8d86">Certificate</a>
-</p>
+| 🧾Course name | 📅Duration | 📁Repository | 📄Certificate |
+|--------|----|----|----|
+|✔ [Programming Basics](https://softuni.bg/trainings/3741/programming-basics-with-java-april-2022) | April-May 2022 | [Programming Basics with Java](https://github.com/trayanaboykova/Programming-Basics-Java) | [Certificate](https://softuni.bg/certificates/details/134595/710e8d86) |
+|✔ [Programming Fundamentals](https://softuni.bg/trainings/3951/programming-fundamentals-with-java-january-2023) | January-April 2023 | [Programming Fundamentals with Java](https://github.com/trayanaboykova/Programming-Fundamentals-Java) | [Certificate](https://softuni.bg/certificates/details/167407/068cc5bc) |
+|✔ [Java Advanced](https://softuni.bg/trainings/4225/java-advanced-september-2023) | September-October 2023 | [Java Advanced](https://github.com/trayanaboykova/Java-Advanced) | [Certificate](https://softuni.bg/certificates/details/188658/535a484a) |
+|✔ [Java OOP](https://softuni.bg/trainings/4226/java-oop-oktober-2023) | October-December 2023 | [Java OOP](https://github.com/trayanaboykova/Java-OOP) | [Certificate](https://softuni.bg/certificates/details/200872/8f20f09f) |
+|✔ [MySQL](https://softuni.bg/trainings/4365/mysql-january-2024) | January-February 2024 | [MySQL](https://github.com/trayanaboykova/MySQL) | [Certificate](https://softuni.bg/certificates/details/202966/64952c80) 
+|⏳ [Spring Data](https://softuni.bg/trainings/4366/spring-data-february-2024)| Ongoing | |  |
+|⏳ HTML & CSS | Ongoing | | |
+|⏳ JS Front-End | Ongoing | |  |
+|🔮 Spring Fundamentals | Planned | | |
+|🔮 Spring Advanced | Planned | | |
+|🔮 Containers and Cloud | Planned | | |
+|🔮 Software Engineering and DevOps | Planned | | |
 
-#### ✔[Programming Fundamentals](https://softuni.bg/trainings/3951/programming-fundamentals-with-java-january-2023):
-<p>
-  📅 January-April 2023 <br>
-  📁 <a href="https://github.com/trayanaboykova/Programming-Fundamentals-Java">Programming Fundamentals with Java</a> <br>
-  📄 <a href="https://softuni.bg/certificates/details/167407/068cc5bc">Certificate</a>
-</p>
-
-#### ✔[Java Advanced](https://softuni.bg/trainings/4225/java-advanced-september-2023):
-<p>
-  📅 September-October 2023 <br>
-  📁 <a href="https://github.com/trayanaboykova/Java-Advanced">Java Advanced</a> <br>
-  📄 <a href="https://softuni.bg/certificates/details/188658/535a484a">Certificate</a>
-</p>
-
-#### ✔[Java OOP](https://softuni.bg/trainings/4226/java-oop-oktober-2023):
-<p>
-  📅 October-December 2023 <br>
-  📁 <a href="https://github.com/trayanaboykova/Java-OOP">Java OOP</a> <br>
-  📄 <a href="https://softuni.bg/certificates/details/200872/8f20f09f">Certificate</a>
-</p>
-
-#### ✔[MySQL](https://softuni.bg/trainings/4365/mysql-january-2024):
-<p>
-  📅 January-February 2024 <br>
-  📁 <a href="https://github.com/trayanaboykova/MySQL">MySQL</a> <br>
-  📄 <a href="https://softuni.bg/certificates/details/202966/64952c80">Certificate</a>
-</p>
+### 📚[JavaScript Learning Path](https://softuni.bg/curriculum)
+| 🧾Course name | 📅Duration | 📁Repository | 📄Certificate |
+|--------|----|----|----|
+| ✔ [Programming Basics](https://softuni.bg/trainings/4001/programming-basics-with-javascript-march-2023) | April-May 2023 | [Programming Basics with JavaScript](https://github.com/trayanaboykova/Programming-Basics-JavaScript) | [Certificate](https://softuni.bg/certificates/details/170528/f8553fdd) |
+|🔮 Programming Fundamentals | Planned | |  |
+|🔮 JS Advanced | Planned | | |
+|🔮 JS Applications | Planned | | |
+|🔮 JS Back-End | Planned | | |
+|🔮 ReactJs | Planned | | |
+|🔮 Angular | Planned | | |
 
 <!---
 trayanaboykova/trayanaboykova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
