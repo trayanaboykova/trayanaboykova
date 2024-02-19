@@ -26,8 +26,8 @@
 |✔ [Java OOP](https://softuni.bg/trainings/4226/java-oop-oktober-2023) | October-December 2023 | [Java OOP](https://github.com/trayanaboykova/Java-OOP) | [Certificate](https://softuni.bg/certificates/details/200872/8f20f09f) |
 |✔ [MySQL](https://softuni.bg/trainings/4365/mysql-january-2024) | January-February 2024 | [MySQL](https://github.com/trayanaboykova/MySQL) | [Certificate](https://softuni.bg/certificates/details/202966/64952c80) 
 |⏳ [Spring Data](https://softuni.bg/trainings/4366/spring-data-february-2024)| Ongoing | |  |
-|⏳ HTML & CSS | Ongoing | | |
-|⏳ JS Front-End | Ongoing | |  |
+|⏳ [HTML & CSS](https://softuni.bg/trainings/4361/html-and-css-january-2024)| Ongoing | | |
+|⏳ [JS Front-End](https://softuni.bg/trainings/4362/js-front-end-february-2024)| Ongoing | |  |
 |🔮 Spring Fundamentals | Planned | | |
 |🔮 Spring Advanced | Planned | | |
 |🔮 Containers and Cloud | Planned | | |
