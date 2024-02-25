@@ -15,6 +15,22 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,mysql,idea&theme=light)](https://skillicons.dev)
 
+<h1 align="center"></h1>
+
+### 📚[Java Learning Path](https://softuni.bg/curriculum)
+| 🧾Course name | 📅Duration | 📁Repository | 🏆Certificate | 🛠️Skills | 
+|--------|----|----|----|-----|
+|✔ [Programming Basics](https://softuni.bg/trainings/3741/programming-basics-with-java-april-2022) | April - May 2022 | [Programming Basics with Java](https://github.com/trayanaboykova/Programming-Basics-Java) | [Certificate](https://softuni.bg/certificates/details/134595/710e8d86) |  [![IntelliJ Idea](https://skillicons.dev/icons?i=idea&theme=light)](https://www.jetbrains.com/idea/) [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+|✔ [Programming Fundamentals with Java](https://softuni.bg/trainings/3951/programming-fundamentals-with-java-january-2023) | January - April 2023 | [Programming Fundamentals with Java](https://github.com/trayanaboykova/Programming-Fundamentals-Java) | [Certificate](https://softuni.bg/certificates/details/167407/068cc5bc) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/) |
+|✔ [Java Advanced](https://softuni.bg/trainings/4225/java-advanced-september-2023) | September - October 2023 | [Java Advanced](https://github.com/trayanaboykova/Java-Advanced) | [Certificate](https://softuni.bg/certificates/details/188658/535a484a) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+|✔ [Java OOP](https://softuni.bg/trainings/4226/java-oop-oktober-2023) | October - December 2023 | [Java OOP](https://github.com/trayanaboykova/Java-OOP) | [Certificate](https://softuni.bg/certificates/details/200872/8f20f09f) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+|✔ [MySQL](https://softuni.bg/trainings/4365/mysql-january-2024) | January - February 2024 | [MySQL](https://github.com/trayanaboykova/MySQL) | [Certificate](https://softuni.bg/certificates/details/202966/64952c80) | [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/) |
+|⏳ [Spring Data](https://softuni.bg/trainings/4366/spring-data-february-2024)| Ongoing | [Spring Data](https://github.com/trayanaboykova/Spring-Data) |  | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) [![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=light)](https://hibernate.org/) [![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/) [![Maven](https://skillicons.dev/icons?i=maven&theme=light)](https://maven.apache.org/) |
+
+### 📚[JavaScript Learning Path](https://softuni.bg/curriculum)
+| 🧾Course name | 📅Duration | 📁Repository | 🏆Certificate | 🛠️Skills | 
+|--------|----|----|----|-----|
+| ✔ [Programming Basics](https://softuni.bg/trainings/4001/programming-basics-with-javascript-march-2023) | April - May 2023 | [Programming Basics with JavaScript](https://github.com/trayanaboykova/Programming-Basics-JavaScript) | [Certificate](https://softuni.bg/certificates/details/170528/f8553fdd) | [![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 
 <!---
 trayanaboykova/trayanaboykova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
