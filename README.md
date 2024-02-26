@@ -26,11 +26,23 @@
 |✔ [Java OOP](https://softuni.bg/trainings/4226/java-oop-oktober-2023) | October - December 2023 | [Java OOP](https://github.com/trayanaboykova/Java-OOP) | [Certificate](https://softuni.bg/certificates/details/200872/8f20f09f) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 |✔ [MySQL](https://softuni.bg/trainings/4365/mysql-january-2024) | January - February 2024 | [MySQL](https://github.com/trayanaboykova/MySQL) | [Certificate](https://softuni.bg/certificates/details/202966/64952c80) | [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/) |
 |⏳ [Spring Data](https://softuni.bg/trainings/4366/spring-data-february-2024)| Ongoing | [Spring Data](https://github.com/trayanaboykova/Spring-Data) |  | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) [![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=light)](https://hibernate.org/) [![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/) [![Maven](https://skillicons.dev/icons?i=maven&theme=light)](https://maven.apache.org/) |
+|⏳ [HTML & CSS](https://softuni.bg/trainings/4361/html-and-css-january-2024#lesson-64762) | Ongoing |  |  | [![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://en.wikipedia.org/wiki/HTML) [![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://en.wikipedia.org/wiki/CSS) [![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/) |
+|⏳ [JS Front-End](https://softuni.bg/trainings/4362/js-front-end-february-2024) | Ongoing |  |  | [![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+|🔮 Spring Fundamentals | Planned |  |  |  |
+|🔮 Spring Advanced | Planned |  |  |  |
+|🔮 Containers and Cloud | Planned |  |  |  |
+|🔮 Software Engineering and DevOps | Planned |  |  |  |
 
 ### 📚[JavaScript Learning Path](https://softuni.bg/curriculum)
 | 🧾Course name | 📅Duration | 📁Repository | 🏆Certificate | 🛠️Skills | 
 |--------|----|----|----|-----|
 | ✔ [Programming Basics](https://softuni.bg/trainings/4001/programming-basics-with-javascript-march-2023) | April - May 2023 | [Programming Basics with JavaScript](https://github.com/trayanaboykova/Programming-Basics-JavaScript) | [Certificate](https://softuni.bg/certificates/details/170528/f8553fdd) | [![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+|🔮 Programming Fundamentals with JS | Planned |  |  |  |
+|🔮 JS Advanced | Planned |  |  |  |
+|🔮 JS Applications | Planned |  |  |  |
+|🔮 JS Back-End | Planned |  |  | |
+|🔮 ReactJs | Planned  |  |  | |
+|🔮 Angular | Planned |  |  | |
 
 <!---
 trayanaboykova/trayanaboykova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
