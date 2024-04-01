@@ -13,7 +13,7 @@
 
 <h3 align="left">💻<ins>My Tech Stack</ins>:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,idea&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,java,mysql,spring,hibernate,maven&theme=light)](https://skillicons.dev)
 
 <h1 align="center"></h1>
 
