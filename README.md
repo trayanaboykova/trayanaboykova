@@ -26,12 +26,14 @@
 |✔ [Java OOP](https://softuni.bg/trainings/4226/java-oop-oktober-2023) | October - December 2023 | [Java OOP](https://github.com/trayanaboykova/Java-OOP) | [Certificate](https://softuni.bg/certificates/details/200872/8f20f09f) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 |✔ [MySQL](https://softuni.bg/trainings/4365/mysql-january-2024) | January - February 2024 | [MySQL](https://github.com/trayanaboykova/MySQL) | [Certificate](https://softuni.bg/certificates/details/202966/64952c80) | [![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/) |
 |✔ [Spring Data](https://softuni.bg/trainings/4366/spring-data-february-2024)| February - March 2024 | [Spring Data](https://github.com/trayanaboykova/Spring-Data) | [Certificate](https://softuni.bg/certificates/details/209417/a2eb90d6) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) [![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=light)](https://hibernate.org/) [![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/) [![Maven](https://skillicons.dev/icons?i=maven&theme=light)](https://maven.apache.org/) |
-|⏳ [HTML & CSS](https://softuni.bg/trainings/4361/html-and-css-january-2024#lesson-64762) | Ongoing |  |  | [![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://en.wikipedia.org/wiki/HTML) [![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://en.wikipedia.org/wiki/CSS) [![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/) |
-|⏳ [JS Front-End](https://softuni.bg/trainings/4362/js-front-end-february-2024) | Ongoing |  |  | [![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+|⏳ [HTML & CSS](https://softuni.bg/trainings/4361/html-and-css-january-2024#lesson-64762) | Ongoing | [HTML & CSS](https://github.com/trayanaboykova/HTML-CSS) |  | [![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://en.wikipedia.org/wiki/HTML) [![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://en.wikipedia.org/wiki/CSS) [![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/) |
+|⏳ [JS Front-End](https://softuni.bg/trainings/4362/js-front-end-february-2024) | Ongoing | [JS Front-End](https://github.com/trayanaboykova/JS-Front-End) |  | [![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
 |🔮 Spring Fundamentals | Planned |  |  |  |
 |🔮 Spring Advanced | Planned |  |  |  |
 |🔮 Containers and Cloud | Planned |  |  |  |
 |🔮 Software Engineering and DevOps | Planned |  |  |  |
+
+<h1 align="center"></h1>
 
 ### 📚[JavaScript Learning Path](https://softuni.bg/curriculum)
 | 🧾Course name | 📅Duration | 📁Repository | 🏆Certificate | 🛠️Skills | 
@@ -43,6 +45,12 @@
 |🔮 JS Back-End | Planned |  |  | |
 |🔮 ReactJs | Planned  |  |  | |
 |🔮 Angular | Planned |  |  | |
+
+<h1 align="center"></h1>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trayanaboykova&show_icons=true&locale=en&layout=compact" alt="trayanaboykova" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trayanaboykova&" alt="trayanaboykova" /></p>
 
 <!---
 trayanaboykova/trayanaboykova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
