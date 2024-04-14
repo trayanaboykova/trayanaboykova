@@ -28,23 +28,6 @@
 |✔ [Spring Data](https://softuni.bg/trainings/4366/spring-data-february-2024)| February - March 2024 | [Spring Data](https://github.com/trayanaboykova/Spring-Data) | <a href="https://softuni.bg/certificates/details/209417/a2eb90d6" rel="nofollow"><img src="https://github.com/trayanaboykova/Spring-Data/assets/101351760/881e898d-96fd-4386-9db2-84a84e52f99b" alt="SpringData"></a>| [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) [![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=light)](https://hibernate.org/) [![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/) [![Maven](https://skillicons.dev/icons?i=maven&theme=light)](https://maven.apache.org/) |
 |⏳ [HTML & CSS](https://softuni.bg/trainings/4361/html-and-css-january-2024#lesson-64762) | Ongoing | [HTML & CSS](https://github.com/trayanaboykova/HTML-CSS) |  | [![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://en.wikipedia.org/wiki/HTML) [![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://en.wikipedia.org/wiki/CSS) [![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/) |
 |⏳ [JS Front-End](https://softuni.bg/trainings/4362/js-front-end-february-2024) | Ongoing | [JS Front-End](https://github.com/trayanaboykova/JS-Front-End) |  | [![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Postman](https://skillicons.dev/icons?i=postman&theme=light)](https://www.postman.com/) [![NPM](https://skillicons.dev/icons?i=npm&theme=light)](https://www.npmjs.com/) |
-|🔮 Spring Fundamentals | Planned |  |  |  |
-|🔮 Spring Advanced | Planned |  |  |  |
-|🔮 Containers and Cloud | Planned |  |  |  |
-|🔮 Software Engineering and DevOps | Planned |  |  |  |
-
-<h1 align="center"></h1>
-
-### 📚[JavaScript Learning Path](https://softuni.bg/curriculum)
-| 🧾Course name | 📅Duration | 📁Repository | 🏆Certificate | 🛠️Skills | 
-|--------|----|----|----|-----|
-| ✔ [Programming Basics](https://softuni.bg/trainings/4001/programming-basics-with-javascript-march-2023) | April - May 2023 | [Programming Basics with JavaScript](https://github.com/trayanaboykova/Programming-Basics-JavaScript) | <a href="https://softuni.bg/certificates/details/170528/f8553fdd" rel="nofollow"><img src="https://user-images.githubusercontent.com/101351760/234004462-4e3fb921-96db-4ffa-ae35-cceb007004fe.png" alt="Programming Basics with JavaScript"></a> | [![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
-|🔮 Programming Fundamentals with JS | Planned |  |  |  |
-|🔮 JS Advanced | Planned |  |  |  |
-|🔮 JS Applications | Planned |  |  |  |
-|🔮 JS Back-End | Planned |  |  |  |
-|🔮 ReactJs | Planned  |  |  |  |
-|🔮 Angular | Planned |  |  |  |
 
 <h1 align="center"></h1>
 
