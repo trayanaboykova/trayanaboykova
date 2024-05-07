@@ -1,10 +1,11 @@
-<h1 align="center">Hi, I'm Trayana Boykova👩‍💻</h1>
+<h1 align="center">Hi, I'm Trayana Boykova<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="55" height="55" /></h1>
 
 <h3 align="left">✨<ins>About me</ins>:</h3>
 
-- 🧩 **I’m interested in:** technology and software development 
+- ⚡ **I’m interested in:** technology and software development 
 - 📚 **I’m currently learning:** Java
-- ⚡ **Fun fact about me:** I have a masters degree in law ⚖, but I am currently pursuing a career change in the field of software development.
+- 💡 **Fun fact about me:** I have a masters degree in law ⚖, but I am currently pursuing a career change in the field of software development.
+- 🧩 **Beyond Work:** An avid reader who finds joy in exploring new cultures, cuisines, and outdoor adventures. Passionate about staying active through sports and indulging in interests in music, cinema, and gaming.
 
 <h3 align="left">🕸<ins>Connect with me</ins>:</h3>
 <p align="left">
