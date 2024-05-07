@@ -2,10 +2,10 @@
 
 <h3 align="left">✨<ins>About me</ins>:</h3>
 
-- ⚡ **I’m interested in:** technology and software development 
-- 📚 **I’m currently learning:** Java
-- 💡 **Fun fact about me:** I have a masters degree in law ⚖, but I am currently pursuing a career change in the field of software development.
-- 🧩 **Beyond Work:** An avid reader who finds joy in exploring new cultures, cuisines, and outdoor adventures. Passionate about staying active through sports and indulging in interests in music, cinema, and gaming.
+ ⚡ **I’m interested in:** technology and software development <br>
+ 📚 **I’m currently learning:** Java <br>
+ 💡 **Fun fact about me:** I have a masters degree in law ⚖, but I am currently pursuing a career change in the field of software development. <br>
+ 🧩 **Beyond Work:** An avid reader who finds joy in exploring new cultures, cuisines, and outdoor adventures. Passionate about staying active through sports and indulging in interests in music, cinema, and gaming.
 
 <h3 align="left">🕸<ins>Connect with me</ins>:</h3>
 <p align="left">
