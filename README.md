@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Trayana Boykova<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="55" height="55" /></h1>
 
-<h3 align="left">✨<ins>About me</ins>:</h3>
+<h3 align="left">✨<ins>About me</ins>:</h3> 
 
  ⚡ **I’m interested in:** technology and software development <br>
  📚 **I’m currently learning:** Java <br>
