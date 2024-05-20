@@ -18,6 +18,10 @@
 
 <h1 align="center"></h1>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trayanaboykova&show_icons=true&locale=en&layout=compact" alt="trayanaboykova" /></p>
+
+<h1 align="center"></h1>
+
 ### 📚[My Learning Path](https://softuni.bg/curriculum)
 | 🧾Course name | 📅Duration | 📁Repository | 🏆Certificate | 🛠️Skills | 
 |--------|----|----|----|-----|
@@ -32,13 +36,6 @@
 |✔ [JS Front-End](https://softuni.bg/trainings/4362/js-front-end-february-2024) | February - April 2024 | [JS Front-End](https://github.com/trayanaboykova/JS-Front-End) | <a href="https://softuni.bg/certificates/details/212601/27c615b1" rel="nofollow"><img src="https://github.com/trayanaboykova/readme/assets/101351760/381bb667-2697-4292-a6f1-98254cc3c0cb" alt="JSFront-End"></a> |[![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![Postman](https://skillicons.dev/icons?i=postman&theme=light)](https://www.postman.com/) [![NPM](https://skillicons.dev/icons?i=npm&theme=light)](https://www.npmjs.com/) |
 |🔮 Spring Fundamentals | Planned |  |  | [![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/) |
 |🔮 Spring Advanced | Planned |  |  | [![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/) |
-
-
-<h1 align="center"></h1>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trayanaboykova&show_icons=true&locale=en&layout=compact" alt="trayanaboykova" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trayanaboykova&" alt="trayanaboykova" /></p>
 
 <!---
 trayanaboykova/trayanaboykova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
