@@ -43,6 +43,11 @@
 |----|----|----|----|
 | **Project:** Rock-Paper-Scissors | *This is a simple rock, paper, scissors game. This project was part of my learning at SoftUni from Java Fundamentals* | [Rock-Paper-Scissors](https://github.com/trayanaboykova/Rock-Paper-Scissors) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 
+### 📚Additional Learning
+| 🧾Course name |  📁Repository | 🛠️Skills | 
+|----|----|----|
+| Telerik Academy Self Prep | [Telerik Academy Exercises](https://github.com/trayanaboykova/Java-Coding-Exercises/tree/main/TelerikSelfPrep) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+
 <!---
 trayanaboykova/trayanaboykova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
