@@ -41,8 +41,9 @@
 ### 📚Projects & Workshops 
 | 🧾Name | ✍Description | 📁Repository | 🛠️Skills |
 |----|----|----|----|
-| **Project:** Rock-Paper-Scissors | *This is a simple rock, paper, scissors game. This project was part of my learning at SoftUni from Java Fundamentals* | [Rock-Paper-Scissors](https://github.com/trayanaboykova/Rock-Paper-Scissors) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
-| **Project:** Guess A Number | *This is a simple guess a number game. This project was part of my learning at SoftUni from Java Fundamentals* | [Guess-A-Number](https://github.com/trayanaboykova/Guess-A-Number) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+| **Project:** Rock-Paper-Scissors | *This is a simple rock, paper, scissors game. This project was part of my learning at SoftUni from Java Fundamentals.* | [Rock-Paper-Scissors](https://github.com/trayanaboykova/Rock-Paper-Scissors) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+| **Project:** Guess A Number | *This is a simple guess a number game. This project was part of my learning at SoftUni from Java Fundamentals.* | [Guess-A-Number](https://github.com/trayanaboykova/Guess-A-Number) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+| **Project:** Random Sentences Generator | *This is a simple Java program that generates random sentences using predefined lists of names, places, verbs, nouns, adverbs, and details. This project was part of my learning at SoftUni from Java Fundamentals.* | [Random-Sentences-Generator](https://github.com/trayanaboykova/Random-Sentences-Generator) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 
 ### 📚Additional Learning
 | 🧾Course name |  📁Repository | 🛠️Skills | 
