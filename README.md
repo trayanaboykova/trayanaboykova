@@ -17,14 +17,11 @@
 [![My Skills](https://skillicons.dev/icons?i=idea,webstorm,vscode,java,mysql,spring,hibernate,maven,js,html,css&theme=light)](https://skillicons.dev)
 
 <h1 align="center"></h1>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trayanaboykova&show_icons=true&locale=en&layout=compact" alt="trayanaboykova" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trayanaboykova&" alt="trayanaboykova" /></p>
-
+<br clear="left">
 <h1 align="center"></h1>
 
-### 📚[My Learning Path](https://softuni.bg/curriculum)
+### 📚 [My Learning Path](https://softuni.bg/curriculum)
 | 🧾Course name | 📅Duration | 📁Repository | 🏆Certificate | 🛠️Skills | 
 |--------|----|----|----|-----|
 |✔ [Programming Basics with Java](https://softuni.bg/trainings/3741/programming-basics-with-java-april-2022) | April - May 2022 | [Programming Basics with Java](https://github.com/trayanaboykova/Programming-Basics-Java) | <a href="https://softuni.bg/certificates/details/134595/710e8d86" rel="nofollow"><img src="https://user-images.githubusercontent.com/101351760/225559811-ed4dc164-5dbf-42dd-aa09-3bca9bf4d1ec.png" alt="Programming Basics with Java"></a> |  [![IntelliJ Idea](https://skillicons.dev/icons?i=idea&theme=light)](https://www.jetbrains.com/idea/) [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
