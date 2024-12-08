@@ -14,7 +14,19 @@
 
 <h3 align="left">💻<ins>My Tech Stack</ins>:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=idea,webstorm,vscode,java,mysql,spring,hibernate,maven,js,html,css&theme=light)](https://skillicons.dev)
+[![IntelliJ Idea](https://skillicons.dev/icons?i=idea&theme=light)](https://www.jetbrains.com/idea/)
+[![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=light)](https://www.mysql.com/)
+[![Hibernate](https://skillicons.dev/icons?i=hibernate&theme=light)](https://hibernate.org/)
+[![Spring](https://skillicons.dev/icons?i=spring&theme=light)](https://spring.io/)
+[![Maven](https://skillicons.dev/icons?i=maven&theme=light)](https://maven.apache.org/)
+[![VS Code](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com/)
+[![HTML](https://skillicons.dev/icons?i=html&theme=light)](https://en.wikipedia.org/wiki/HTML)
+[![CSS](https://skillicons.dev/icons?i=css&theme=light)](https://en.wikipedia.org/wiki/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=light)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/)
+[![PHP](https://skillicons.dev/icons?i=php&theme=light)](https://www.php.net/)
+[![WordPress](https://skillicons.dev/icons?i=wordpress&theme=light)](https://wordpress.com/)
 
 <h1 align="center"></h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trayanaboykova&show_icons=true&locale=en&layout=compact" alt="trayanaboykova" /></p>
@@ -46,6 +58,7 @@
 | **Project:** Phonebook | *This is a basic web project, which is a simple Phonebook application. This project was part of my learning at SoftUni from Java Fundamentals.* | [Phonebook](https://github.com/trayanaboykova/Phonebook) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 | **Workshop:** Custom Data Structures | *In this workshop, I created custom data structures similar to Java's ArrayList, Stack, and LinkedList, working with integers. I implemented functionalities like adding, removing, and retrieving elements, as well as iterating through the collection. This project was part of my learning at SoftUni from Java Advanced.* | [Custom Data Structures](https://github.com/trayanaboykova/Java-Advanced/tree/master/src/Lesson07_WorkshopCustomDataStructures) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 | **Workshop:** Algorithms Introduction | *In this workshop, I explored the basics of algorithm design and analysis. I learned how algorithms solve problems step-by-step, focusing on concepts like efficiency, time complexity (Big O notation), and different types of algorithms (sorting, searching, etc.). This workshop was part of my learning at SoftUni from Java Advanced.* | [Algorithms Introduction](https://github.com/trayanaboykova/Java-Advanced/tree/master/src/Lesson09_WorkshopAlgorithms) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+| **Project:** Wordpress Blog | *A lifestyle blog, created with WordPress and PHP. This workshop was part of my learning at SoftUni from Wordpress for Developers.* | [Wordpress Lifestyle Blog](https://github.com/trayanaboykova/WordPress-Lifestyle-Blog) | [![PHP](https://skillicons.dev/icons?i=php&theme=light)](https://www.php.net/) [![WordPress](https://skillicons.dev/icons?i=wordpress&theme=light)](https://wordpress.com/) |
 
 ### 📚Additional Learning
 | 🧾Course name |  📁Repository | 🛠️Skills | 
