@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Trayana Boykova<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" alt="Woman Technologist" width="55" height="55" /></h1>
 
-<h3 align="left">✨<ins>About me</ins>:</h3> 
+<h3 align="left">✨About me:</h3> 
 
 - ⚡ **I’m interested in:** technology and software development 
 - 📚 **I’m currently learning:** Java
 - 💡 **Fun fact about me:** I have a masters degree in law ⚖, but I am currently pursuing a career change in the field of software development.
 - 🧩 **Beyond Work:** An avid reader who finds joy in exploring new cultures, cuisines, and outdoor adventures. Passionate about staying active through sports, fitness activities, and indulging in interests in music, cinema, and gaming.
 
-<h3 align="left">🕸<ins>Connect with me</ins>:</h3>
+<h3 align="left">🕸Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/trayana-boykova" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trayana-boykova" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18431327" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18431327" height="30" width="40" /></a>
 
-<h3 align="left">💻<ins>My Tech Stack</ins>:</h3>
+<h3 align="left">💻My Tech Stack:</h3>
 
 [![IntelliJ Idea](https://skillicons.dev/icons?i=idea&theme=light)](https://www.jetbrains.com/idea/)
 [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/)
