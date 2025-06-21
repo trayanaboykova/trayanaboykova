@@ -32,6 +32,7 @@
 
 <h1 align="center"></h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trayanaboykova&show_icons=true&locale=en&layout=compact" alt="trayanaboykova" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=trayanaboykova" alt="trayanaboykova" /></p>
 <br clear="left">
 <h1 align="center"></h1>
 
