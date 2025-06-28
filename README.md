@@ -3,8 +3,7 @@
 <h3 align="left">✨About me:</h3> 
 
 - ⚡ **I’m interested in:** technology and software development 
-- 📚 **I’m currently learning:** Java
-- 💡 **Fun fact about me:** I have a masters degree in law ⚖, but I am currently pursuing a career change in the field of software development.
+- 💡 **Fun fact about me:** I have a masters degree in law ⚖
 - 🧩 **Beyond Work:** An avid reader who finds joy in exploring new cultures, cuisines, and outdoor adventures. Passionate about staying active through sports, fitness activities, and indulging in interests in music, cinema, and gaming.
 
 <h3 align="left">🕸Connect with me:</h3>
