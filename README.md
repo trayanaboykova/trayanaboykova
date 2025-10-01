@@ -43,7 +43,7 @@
 <br clear="left">
 <h1 align="center"></h1>
 
-### 📚 My Learning Path
+### 📚 SoftUni Learning Path
 | 🧾Course name | 📅Duration | 📁Repository | 🏆Certificate | 🛠️Skills | 
 |--------|----|----|----|-----|
 |✔ [Programming Basics with Java](https://softuni.bg/trainings/3741/programming-basics-with-java-april-2022) | April - May 2022 | [Programming Basics with Java](https://github.com/trayanaboykova/Programming-Basics-Java) | <a href="https://softuni.bg/certificates/details/134595/710e8d86" rel="nofollow"><img src="https://user-images.githubusercontent.com/101351760/225559811-ed4dc164-5dbf-42dd-aa09-3bca9bf4d1ec.png" alt="Programming Basics with Java"></a> |  [![IntelliJ Idea](https://skillicons.dev/icons?i=idea&theme=light)](https://www.jetbrains.com/idea/) [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
@@ -80,6 +80,8 @@
 | **Coffee Machine Simulator (Java)** | *A console-based simulation of a real coffee machine that supports buying drinks, refilling resources, taking money, and requiring cleaning after every 10 cups. The project demonstrates OOP design with a clean structure using separate classes for machine logic and coffee types. This project was part of my learning at [JetBrains Academy](https://www.jetbrains.com/academy/).* | [Coffee Machine Simulator](https://github.com/trayanaboykova/Coffee-Machine-Simulator) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 | **Bulls and Cows (Java)** | *A console-based code-breaking game where the player guesses a secret code of digits and/or letters. After each guess, the program provides feedback in the form of **bulls** (correct symbol in the correct position) and **cows** (correct symbol in the wrong position). The game continues until the player cracks the code. Built as part of [JetBrains Academy](https://www.jetbrains.com/academy/) to strengthen logic, loops, and input validation skills.* | [Bulls-and-Cows](https://github.com/trayanaboykova/BullsAndCows) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 | **Chuck Norris Cipher Encoder (Java)** | *A console-based program that encodes and decodes text using the quirky **Chuck Norris Unary Cipher**. It converts plain text into 7-bit binary, then transforms it into unary sequences of 0s and spaces, and can decode them back into readable text. The program features an interactive menu with **encode/decode/exit** options and input validation.* | [Chuck-Norris-Cipher-Encoder](https://github.com/trayanaboykova/Chuck-Norris-Cipher-Encoder) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+| **Amazing Numbers (Java)** | *A console-based program that explores number properties like EVEN, ODD, BUZZ, PALINDROMIC, HAPPY, SAD, and more. It supports single-number queries, ranges, filtering by properties (including exclusions), and validation for mutually exclusive inputs. Built as part of [JetBrains Academy](https://www.jetbrains.com/academy/).* | [Amazing-Numbers](https://github.com/trayanaboykova/Amazing-Numbers) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+
 
 
 ### 📚Additional Learning
