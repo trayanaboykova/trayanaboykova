@@ -81,13 +81,14 @@
 | **Bulls and Cows (Java)** | *A console-based code-breaking game where the player guesses a secret code of digits and/or letters. After each guess, the program provides feedback in the form of **bulls** (correct symbol in the correct position) and **cows** (correct symbol in the wrong position). The game continues until the player cracks the code. Built as part of [JetBrains Academy](https://www.jetbrains.com/academy/) to strengthen logic, loops, and input validation skills.* | [Bulls-and-Cows](https://github.com/trayanaboykova/BullsAndCows) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 | **Chuck Norris Cipher Encoder (Java)** | *A console-based program that encodes and decodes text using the quirky **Chuck Norris Unary Cipher**. It converts plain text into 7-bit binary, then transforms it into unary sequences of 0s and spaces, and can decode them back into readable text. The program features an interactive menu with **encode/decode/exit** options and input validation.* | [Chuck-Norris-Cipher-Encoder](https://github.com/trayanaboykova/Chuck-Norris-Cipher-Encoder) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 | **Amazing Numbers (Java)** | *A console-based program that explores number properties like EVEN, ODD, BUZZ, PALINDROMIC, HAPPY, SAD, and more. It supports single-number queries, ranges, filtering by properties (including exclusions), and validation for mutually exclusive inputs. Built as part of [JetBrains Academy](https://www.jetbrains.com/academy/).* | [Amazing-Numbers](https://github.com/trayanaboykova/Amazing-Numbers) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+| **Battleship Game (Java)** | *A console-based implementation of the classic Battleship game. Players place ships on a 10x10 grid and take turns firing at each other’s board, with fog of war mechanics, hit/miss detection, and victory conditions when all ships are sunk. Built as part of [JetBrains Academy](https://www.jetbrains.com/academy/) to strengthen Java fundamentals, arrays, loops, and input validation.* | [Battleship-Game-Java](https://github.com/trayanaboykova/Battleships-with-Java) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
+
+### 📚 Additional Learning
+| 🧾 Course name | 📚 Resources | 🛠️ Skills |
+|----------------|-------------|-----------|
+| **Hyperskill: Introduction to Java** | 🏆 [Certificate](https://hyperskill.org/certificates/d03fca49-cf06-4c4f-9f9a-849846bbf13d.pdf) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/) |
 
 
-
-### 📚Additional Learning
-| 🧾Course name |  📁Repository | 🛠️Skills | 
-|----|----|----|
-| Telerik Academy Self Prep | [Telerik Academy Exercises](https://github.com/trayanaboykova/Java-Coding-Exercises/tree/main/TelerikSelfPrep) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 
 <!---
 trayanaboykova/trayanaboykova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
