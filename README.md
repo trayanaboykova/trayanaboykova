@@ -61,6 +61,11 @@
 |✔ [Software Engineering and DevOps](https://softuni.bg/trainings/4961/software-engineering-and-devops-may-2025) | May - June 2025 | [Software Engineering and DevOps](https://github.com/trayanaboykova/Software-Engineering-And-DevOps) | <a href="https://softuni.bg/certificates/details/246121/94b310f0" rel="nofollow"><img src="https://github.com/user-attachments/assets/2771dce1-3517-4428-bd9a-dd2eee0a1b64" alt="SoftwareEngineeringAndDevOps"></a> | [![Git](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/) [![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=light)](https://github.com/actions) [![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=light)](https://www.jenkins.io/) |
 |✔ [Containers and Cloud](https://softuni.bg/trainings/4962/containers-and-cloud-july-2025) | June - August 2025 | [Containers and Cloud](https://github.com/trayanaboykova/Containers-And-Cloud) | <a href="https://softuni.bg/certificates/details/249615/7a97e641" rel="nofollow"><img width="350" height="183" alt="Containers and Cloud" src="https://github.com/user-attachments/assets/111e95bc-b19c-4634-8b97-3f5b26d42c83" /></a> | [![Linux](https://skillicons.dev/icons?i=linux&theme=light)](https://www.linux.org/) [![Docker](https://skillicons.dev/icons?i=docker&theme=light)](https://www.docker.com/) [![Microsoft Azure](https://skillicons.dev/icons?i=azure&theme=light)](https://azure.microsoft.com/en-in/) [![Prometheus](https://skillicons.dev/icons?i=prometheus&theme=light)](https://prometheus.io/) [![Grafana](https://skillicons.dev/icons?i=grafana&theme=light)](https://grafana.com/) [![Terraform](https://skillicons.dev/icons?i=terraform&theme=light)](https://developer.hashicorp.com/terraform) |
 
+### 📚 Additional Learning
+| 🧾 Course name | 📚 Resources | 🛠️ Skills |
+|----------------|-------------|-----------|
+| **Hyperskill: Introduction to Java** | 🏆 [Certificate](https://hyperskill.org/certificates/d03fca49-cf06-4c4f-9f9a-849846bbf13d.pdf) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/) |
+
 ### 📚 My Projects 
 | 🧾Name | ✍Description | 📁Repository | 🛠️Skills |
 |----|----|----|----|
@@ -82,13 +87,6 @@
 | **Chuck Norris Cipher Encoder (Java)** | *A console-based program that encodes and decodes text using the quirky **Chuck Norris Unary Cipher**. It converts plain text into 7-bit binary, then transforms it into unary sequences of 0s and spaces, and can decode them back into readable text. The program features an interactive menu with **encode/decode/exit** options and input validation.* | [Chuck-Norris-Cipher-Encoder](https://github.com/trayanaboykova/Chuck-Norris-Cipher-Encoder) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 | **Amazing Numbers (Java)** | *A console-based program that explores number properties like EVEN, ODD, BUZZ, PALINDROMIC, HAPPY, SAD, and more. It supports single-number queries, ranges, filtering by properties (including exclusions), and validation for mutually exclusive inputs. Built as part of [JetBrains Academy](https://www.jetbrains.com/academy/).* | [Amazing-Numbers](https://github.com/trayanaboykova/Amazing-Numbers) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
 | **Battleship Game (Java)** | *A console-based implementation of the classic Battleship game. Players place ships on a 10x10 grid and take turns firing at each other’s board, with fog of war mechanics, hit/miss detection, and victory conditions when all ships are sunk. Built as part of [JetBrains Academy](https://www.jetbrains.com/academy/) to strengthen Java fundamentals, arrays, loops, and input validation.* | [Battleship-Game-Java](https://github.com/trayanaboykova/Battleships-with-Java) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) |
-
-### 📚 Additional Learning
-| 🧾 Course name | 📚 Resources | 🛠️ Skills |
-|----------------|-------------|-----------|
-| **Hyperskill: Introduction to Java** | 🏆 [Certificate](https://hyperskill.org/certificates/d03fca49-cf06-4c4f-9f9a-849846bbf13d.pdf) | [![Java](https://skillicons.dev/icons?i=java&theme=light)](https://www.java.com/en/) [![GitHub](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/) |
-
-
 
 <!---
 trayanaboykova/trayanaboykova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
