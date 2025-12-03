@@ -38,10 +38,7 @@
 [![Grafana](https://skillicons.dev/icons?i=grafana&theme=light)](https://grafana.com/) 
 [![Terraform](https://skillicons.dev/icons?i=terraform&theme=light)](https://developer.hashicorp.com/terraform)
 
-<h1 align="center"></h1>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trayanaboykova&show_icons=true&locale=en&layout=compact" alt="trayanaboykova" /></p>
-<br clear="left">
-<h1 align="center"></h1>
+
 
 ### 📚 SoftUni Learning Path
 | 🧾Course name | 📅Duration | 📁Repository | 🏆Certificate | 🛠️Skills | 
